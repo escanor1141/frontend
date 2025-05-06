@@ -1,5 +1,5 @@
 // Este archivo define un contexto de autenticación para manejar el estado de usuario en la aplicación.
-/* import React, { createContext, useState, useContext, ReactNode } from 'react';
+import React, { createContext, useState, useContext, ReactNode } from 'react';
 
 // Tipado de los datos que tendrá el contexto
 interface AuthContextData {
@@ -43,4 +43,3 @@ export const useAuth = () => {
   }
   return context;
 };
- */

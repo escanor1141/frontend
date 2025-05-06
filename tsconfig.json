@@ -23,6 +23,6 @@
   },
   "include": [
     "src"
-, "src/App.tsx"  ],
+, "App.tsx"  ],
   "extends": "expo/tsconfig.base"
 }
